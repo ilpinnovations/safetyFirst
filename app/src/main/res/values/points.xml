@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- NOTE : Each string starts with its weight. This weight is extracted in DbHelper class -->
+
+<resources>
+    <string name="general_1.1">3Sufficient setback provided as per regulations between compound walls and building</string>
+    <string name="general_1.2">3Internal roads of sufficient width available as per local building norms</string>
+    <string name="general_1.3">3Sufficient clear space is available around the building/s for fire fighting operations and fire truck to travel freely (Access road to buildings above 15m height should be at least 12m wide. Open space on all sides of the building should be 6m and passageway to the building from the access road should be minimum 4.5m wide and clear head-room of 5m)</string>
+    <string name="general_1.4">4Parked vehicles do not obstruct the yard fire hydrant posts and hose reel boxes</string>
+    <string name="general_1.5">4No other obstructions in front of the hydrant posts or hose reel boxes</string>
+    <string name="general_1.6">4Hose reels available in the hose reel boxes along with the nozzles</string>
+    <string name="general_1.7">3Pathways and footpaths within the premises are non-slippery, without broken paving/tiles which could result in trips and falls</string>
+    <string name="general_1.8">3The premises is generally free of slip / trip and fall hazards</string>
+    <string name="general_1.9">3Areas where there is risk of injury are clearly demarcated (for example, low ceilings, sudden change in elevation, ongoing construction / excavation / repair work, taps and sumps in the garden, electrical fittings, plant and machinery, etc.). Where applicable through fare restrictions are in place</string>
+    <string name="general_1.10">2Adequate external lighting (lux levels) provided in areas of likely people movement. This includes roads, walkways, pathways, parking lots, sit-out areas, etc.</string>
+    <string name="general_1.11">2Building is provided with lightning protection and integrity is tested on regular basis</string>
+    <string name="general_1.12">2General housekeeping within the premises  is satisfactory</string>
+    <string name="general_1.13">3Building fire protection and fighting provisions as per NBC (please refer guideline in next sheet)</string>
+    <string name="general_1.14">5Assembly points are clearly demarcated and sufficiently away from the building</string>
+    <string name="general_1.15">3Ramps with railings are provided for access to differently-abled people. Slope of such ramps is as per NBC requirements</string>
+    <string name="general_1.16">1Designated smoking zones are located at a distance from the building where there is minimal possibility of entry of smoke into the building or into fresh air intakes of the HVAC system</string>
+    <string name="general_1.17">5Escape route areas are free of any obstruction</string>
+
+
+    <string name="veh_mov_2.1">3Segregation of vehicular and pedestrian traffic available and effective, including at gates and parking lots</string>
+    <string name="veh_mov_2.2">3Where vehicular and pedestrian traffic paths intersect, appropriate safety precautions like \'Zebra\' crossings, speed breakers, signages, security guards, etc. provided to ensure pedestrian safety</string>
+    <string name="veh_mov_2.3">3Footpaths or demarcated pathways are provided for roads to ensure segregation of vehicular and pedestrian movement</string>
+    <string name="veh_mov_2.4">1Separate entry/exits and paths are provided for vehicles carrying goods (canteen supplies, building / furniture material, diesel / water tankers, waste trucks, etc.)</string>
+    <string name="veh_mov_2.5">2In case separate exits and paths are not available, entry/exit of goods vehicles is restricted to off-peak hours when associate movement in that area is minimal and the movement of the vehicle in the premises is closely monitored by the security</string>
+    <string name="veh_mov_2.6">1Loading / Unloading bays are provided for unloading material to / from vehicles</string>
+    <string name="veh_mov_2.7">2Safety instructions are issued to goods vehicle drivers/cleaners by security like - observing speed limits, turning off engine while unloading/loading, handbrakes are applied and wheel-stops (wedges) are positioned when the vehicle is parked, sleeping under the vehicle is not permitted, etc.</string>
+    <string name="veh_mov_2.8">2Speed limit signage is prominently displayed, especially at places where vehicles are likely to speed</string>
+    <string name="veh_mov_2.9">1Blind turns have appropriate caution signage and mirrors to prevent vehicle collisions</string>
+    <string name="veh_mov_2.10">3Sloping roads have appropriate signages / speed breakers to prevent speeding</string>
+    <string name="veh_mov_2.11">1Associates\' use of helmets and safety belts before entry or exit from the premises are ensured</string>
+    <string name="veh_mov_2.12">3No Parking\' zones clearly demarcated in bold signage</string>
+    <string name="veh_mov_2.13">3No Parking\' Zones are strictly complied with</string>
+
+
+    <string name="trans_area_3.1">4Provision of physical isolation and locking of transformer for maintenance, tags, isolation tools or locks are available as required</string>
+    <string name="trans_area_3.2">1Isolation Checklist and SOP is available in the transformer area</string>
+    <string name="trans_area_3.3">4Preventive maintenance carried out as per defined frequency, tests like BDV, DGA, etc. conducted at least annually and records are maintained</string>
+    <string name="trans_area_3.4">2Adequate number of Earth pits are available (2 body earth+ 2 neutral ),marked appropriately, tested and maintained periodically and records are maintained</string>
+    <string name="trans_area_3.5">2Sand/rubble and secondary containment provided under the transformer</string>
+    <string name="trans_area_3.6">2Entry to transformer area restricted to authorized persons only, warning signs are displayed</string>
+    <string name="trans_area_3.7">4Fire fighting equipments are available and maintained</string>
+    <string name="trans_area_3.8">3Physical isolation, locking and tagging (Lock out tag out - LOTO) of transformer ensured before any maintenance work on transformer, permits to work systems followed and Permit issued for latest maintenance work and records are available</string>
+    <string name="trans_area_3.9">3Is the transformer located inside the building? If yes, is it oil-filled or ‘dry’ type? If it is oil type, is it located in an enclosed room with adequate ventilation?</string>
+    <string name="trans_area_3.10">3For Oil cooled transformers with oil storage exceeding 2000L, provision is available to empty the oil tank in an underground tank to prevent bursting of transformer in case of fire</string>
+    <string name="trans_area_3.11">2There are no visible signs of oil leakage on and under the transformer cooling fins</string>
+    <string name="trans_area_3.12">2Proper earthing is provided to transformer enclosures (wire fence and doors) and checked regularly for continuity</string>
+
+
+    <string name="elec_panel_4.1">2Cable trenches are appropriately covered to prevent any trip and fall hazards</string>
+    <string name="elec_panel_4.2">2Cable entry and exit points from the room are adequate protected to prevent entry of rodents or other small animals which could pose a risk to equipment and cables (physical damage or electrical short circuit)</string>
+    <string name="elec_panel_4.3">1Cable trenches are dry and there is no water accumulation, even in the wet season</string>
+    <string name="elec_panel_4.4">2Cable trench exits leading into other rooms / building are provided with fire sealants (sand or other fire retardant material) to prevent spread of fire from the panel room</string>
+    <string name="elec_panel_4.5">3Fire detection and alarm systems are provided inside the panel rooms</string>
+    <string name="elec_panel_4.6">2Adequate ventilation is provided in the panel room</string>
+    <string name="elec_panel_4.7">2There is no evident overheating of panels (like open panel doors, provision of pedestal fans for cooling the panels, etc.)</string>
+    <string name="elec_panel_4.8">3Housekeeping is good and there is no storage of material inside the panel room</string>
+    <string name="elec_panel_4.9">4Adequate and appropriate fire extinguishers are provided at appropriate locations</string>
+    <string name="elec_panel_4.10">3Rubber mats are provided in front and behind the panels and are in good condition to prevent electric shock</string>
+    <string name="elec_panel_4.11">2Adequate earthing is provided for the electrical panel, and earth pit is regularly tested, maintained and records are available</string>
+    <string name="elec_panel_4.12">4Appropriate PPEs are provided and are available at the point of use, in good condition and within the expiry period (for example, electrical gloves rated for the highest voltage handled, electrical safety shoes, etc.)</string>
+    <string name="elec_panel_4.13">3The panels are labeled appropriately on the front and back sides to ensure accurate identification during maintenance or emergency</string>
+    <string name="elec_panel_4.14">1All statutory signage is provided in the panel room</string>
+    <string name="elec_panel_4.15">1Single-line diagram (SLD) is displayed as per Electricity Rules. Isolation checklist and procedure is available at the electrical panel</string>
+    <string name="elec_panel_4.16">2Chart displaying actions to take in case of electrocution is available</string>
+    <string name="elec_panel_4.17">5All electricians working in panel room are aware of the hazards and risks, are trained in safety procedures and are licensed</string>
+    <string name="elec_panel_4.18">4Provision for emergency communication is available inside the panel room</string>
+    <string name="elec_panel_4.19">3All safety interlocks and alarms are operational and maintained on regular basis</string>
+
+
+    <string name="dg_ds_5.1">2Trained and certified technicians are deployed for Operating and Maintenance of DG sets</string>
+    <string name="dg_ds_5.2">2Preventive maintenance schedules are maintained as per manufacturer\'s specifications and followed to ensure safe operation</string>
+    <string name="dg_ds_5.3">2Earth pits are marked appropriately, tested and maintained periodically and records are maintained</string>
+    <string name="dg_ds_5.4">3Rubber floor mats provided near electrical panels to prevent electric shock and are in good condition</string>
+    <string name="dg_ds_5.5">2Proper acoustic enclosures are provided as per law and are effective</string>
+    <string name="dg_ds_5.6">1DG noise level (as per defined frequency) test conducted and noise level is within prescribed limits (workplace noise)</string>
+    <string name="dg_ds_5.7">3Emergency stops of the DG is in working condition and regularly tested</string>
+    <string name="dg_ds_5.8">2Operators/technicians use ear protection when DG is running</string>
+    <string name="dg_ds_5.9">2Operators/technicians use PPEs (Gloves, safety shoes etc) during DG maintenance work</string>
+    <string name="dg_ds_5.10">2Arrangement is available for issuing PPEs to visitors and warning signs displayed</string>
+    <string name="dg_ds_5.11">3Unauthorized entry to DG area prohibited</string>
+    <string name="dg_ds_5.12">2Rotating machine parts and hot areas provided with guarding to ensure zero access</string>
+    <string name="dg_ds_5.13">2Provision of proper access arrangements for stack monitoring porthole (with fall protection)</string>
+    <string name="dg_ds_5.14">2Starter batteries (lead-acid) for DG sets are in good condition with no signs of crust formation at the leads or acid spillages or leakages</string>
+    <string name="dg_ds_5.15">3Level gauge on diesel day tanks made of toughened glass with protective casing (instead of PVC tubing)</string>
+    <string name="dg_ds_5.16">3Air vents on day tanks are inspected and maintained on regular basis</string>
+    <string name="dg_ds_5.17">2Manual transfer of diesel from drums to the day tank is carried out using hand-operated pump</string>
+    <string name="dg_ds_5.18">3Proper earthing continuity is provided between the hand pump and day tank to facilitate discharge of static charges generated during diesel transfer operations</string>
+    <string name="dg_ds_5.19">4Adequate Fire detection /fighting arrangements such as detectors, sand buckets, fire extinguishers (foam type) available and maintained in usable condition</string>
+    <string name="dg_ds_5.20">3Smoking and use of mobiles prohibited near diesel storage area and requisite warning signage is displayed</string>
+    <string name="dg_ds_5.21">2Adequate containment / bunding arrangement for diesel storage is provided</string>
+    <string name="dg_ds_5.22">2Arrangement for collection, storage and disposal of waste lube oil, oil soaked cotton waste etc as per Hazardous Waste (Management, Handling and Transboundary Movement) Rules, 2008</string>
+    <string name="dg_ds_5.23">3DG housing and diesel storage areas are provided with fire proof electrical installations (like lighting arrangements)</string>
+    <string name="dg_ds_5.24">4Emergency lighting is provided in the DG area</string>
+    <string name="dg_ds_5.25">3No storage of combustible materials like paper, plastic, etc. in DG room, good house keeping is maintained</string>
+    <string name="dg_ds_5.26">3Earthing arrangements provided at bulk diesel storage tanks for use during diesel unloading</string>
+    <string name="dg_ds_5.27">2All the flanges in the diesel pipeline  have adequate earthing.</string>
+    <string name="dg_ds_5.28">2Spill collection and cleaning kits provided at bulk diesel storage area</string>
+    <string name="dg_ds_5.29">3Air vent on bulk diesel storage tank inspected and tested on regular basis</string>
+    <string name="dg_ds_5.30">2Wire mesh provided at the mouth of the air vent to prevent entry of sparks (leading to fire)</string>
+    <string name="dg_ds_5.31">4Appropriate and adequate fire extinguishers provided in the diesel storage area</string>
+    <string name="dg_ds_5.32">1"Wheel-Stops" provided near bulk diesel tank for use when diesel tanker is parked during diesel unloading</string>
+    <string name="dg_ds_5.33">1Diesel storage drums are in proper condition (not deformed or rusted) with lids secured</string>
+    <string name="dg_ds_5.34">3There are no sources of ignition near diesel storage and handling areas</string>
+    <string name="dg_ds_5.35">2Single line wiring diagrams, Isolation checklist and procedure is available at the electric panels</string>
+    <string name="dg_ds_5.36">1For bulk diesel storage (above 1000 L), CCOE license is available and displayed</string>
+    <string name="dg_ds_5.37">2DG stack port is not in the path of the indoor air circulation (the gas emissions should not enter into the AHU area)</string>
+    <string name="dg_ds_5.38">1Emergency signages are adequate if located in an enclosed area</string>
+
+
+    <string name="water_tret_6.1">3Proper access ways ( walk ways, ladders, platforms etc.)are provided for inspection and daily maintenance</string>
+    <string name="water_tret_6.2">3There are no slip / trip and fall hazards in the area</string>
+    <string name="water_tret_6.3">2All ladders / walk ways / stairs in good condition</string>
+    <string name="water_tret_6.4">3Appropriate fall protection / railing/guarding arrangements are provided wherever there is a risk of fall from height or fall into water</string>
+    <string name="water_tret_6.5">2Ladders are checked and checklist and report maintained</string>
+    <string name="water_tret_6.6">2All moving machine parts are guarded and cannot be accessed while machine is in operation.</string>
+    <string name="water_tret_6.7">2Adequate ventilation (passive or forced) arrangement are provided to prevent build-up of toxic and noxious gases and provide working comfort to operators</string>
+    <string name="water_tret_6.8">2Proper PPEs are used by STP operator/staff whenever required (hand, ear, eye, foot protection)</string>
+    <string name="water_tret_6.9">3Electrical distribution boards, panels and electrical outlets in STP area in good condition and maintained regularly</string>
+    <string name="water_tret_6.10">2Labeled Isolation checklist and procedure is available at all electric panels</string>
+    <string name="water_tret_6.11">1Noise levels from STP equipment ( air blowers, compressors, pumps, etc.) is within prescribed limits</string>
+    <string name="water_tret_6.12">2Toxic and hazardous chemicals like Na-hypochlorite, alum, hydrogen peroxide, water treatment chemicals, etc., stored in designated areas with proper labeling</string>
+    <string name="water_tret_6.13">2Operators are trained on chemical handling, safety precautions and Do\'s and Don\'ts in case of chemical exposure</string>
+    <string name="water_tret_6.14">3Areas where there is risk of injury are clearly demarcated (for example, low ceilings, sudden change in elevation etc.)</string>
+    <string name="water_tret_6.15">3Water storage tanks (underground as well as terrace) are cleaned, chlorinated and maintenance records maintained</string>
+    <string name="water_tret_6.16">3Water treatment and purification system are cleaned and maintained on a defined frequency and maintenance records are available</string>
+    <string name="water_tret_6.17">3Potability of water is tested as per TCS predefined frequency and records maintained</string>
+    <string name="water_tret_6.18">3Water tanks  (all enclosed tanks with man hole access)are identified as confined space and work permit system is followed</string>
+    <string name="water_tret_6.19">2Contract staff working in confined spaces are trained and records are maintained</string>
+    <string name="water_tret_6.20">3Suitable rescue equipment (e.g. ladders) is available to rescue the personnel from the confined spaces if needed</string>
+    <string name="water_tret_6.21">3Safe entry procedures detailed in the confined space work permit are briefed to the employee before starting the underground water tank operation.</string>
+    <string name="water_tret_6.22">3Same procedure is followed for other confined spaces in the facility like narrow utility shafts/ducts, cable trenches, fuel/chemical tanks, underground tanks with manhole entry etc.</string>
+    <string name="water_tret_6.23">4There are safe means of access/egress from confined space</string>
+    <string name="water_tret_6.24">4Flame proof low voltage lighting is available for work inside confined space</string>
+    <string name="water_tret_6.25">4Suitable atmosphere/gas testing facility is available for confined space work</string>
+    <string name="water_tret_6.26">4Breathing apparatus is available for the confined space work</string>
+
+
+    <string name="ub_pr_7.1">2There are no slip/trip and fall hazards in the work areas</string>
+    <string name="ub_pr_7.2">2Machine guarding is in place with no access to moving parts which could lead to injuries</string>
+    <string name="ub_pr_7.3">2There are no sharp edges on machines and other infrastructure</string>
+    <string name="ub_pr_7.4">2No loose cables or wires running across the floor which could cause trips and falls</string>
+    <string name="ub_pr_7.5">1Suitable storage for tools ,tackles and spare equipment is provided</string>
+    <string name="ub_pr_7.6">2All tools are in good condition</string>
+    <string name="ub_pr_7.7">3Suitable storage for hazardous and inflammable materials</string>
+    <string name="ub_pr_7.8">3All materials are labeled and stored without posing trip and fall hazard</string>
+    <string name="ub_pr_7.9">2Portable gas cylinders are stored upright and secured</string>
+    <string name="ub_pr_7.10">3Material is properly stored without posing trip and fall hazard</string>
+    <string name="ub_pr_7.11">1Storage areas for material, including scrap are clearly demarcated and storage is organized well with aisles / access paths provided between storage racks for easy access</string>
+    <string name="ub_pr_7.12">2All ladders / walk ways / stairs in good condition</string>
+    <string name="ub_pr_7.13">2All portable ladders are identified with an unique identification number and these are periodically tested and records maintained</string>
+    <string name="ub_pr_7.14">1Elevated platforms, if any, are protected with guard rails and toe guards</string>
+    <string name="ub_pr_7.15">2Lifting equipment is inspected / tested and certified by competent authority</string>
+    <string name="ub_pr_7.16">3All users of lifting equipment had appropriate training ,records are maintained</string>
+    <string name="ub_pr_7.17">1All lifting equipment (fork lifts, davits, etc )identified with a unique number</string>
+    <string name="ub_pr_7.18">2There a system to enable the user to identify the test status of the lifting equipment e.g. color code</string>
+    <string name="ub_pr_7.19">2All  lifting equipment clearly marked with a safe working load</string>
+    <string name="ub_pr_7.20">3Electrical distribution boards and outlets are in good condition with no visible signs of mechanical damage or electrical sparking</string>
+    <string name="ub_pr_7.21">2Doors of all electrical distribution panels are closed and single line diagrams, isolation checklist and procedure is available</string>
+    <string name="ub_pr_7.22">3Rubber floor mats provided near electrical panels ( main as well as chiller panel)</string>
+    <string name="ub_pr_7.23">2All electrical equipment is properly earthed; single earthing for equipment operating at 230V and double earthing for 415V</string>
+    <string name="ub_pr_7.24">3Electrical protection systems like fuses, MCBs, ELCBs are provided at appropriate locations and they are tested at periodic intervals</string>
+    <string name="ub_pr_7.25">3No \'re-wireable\' fuses are used in the facility</string>
+    <string name="ub_pr_7.26">2Earth Pits are marked, pit resistance is checked and maintained on regular basis and  records are maintained.</string>
+    <string name="ub_pr_7.27">3There are no open electrical terminations (especially in cases where the equipment has been taken away for maintenance or replacement)</string>
+    <string name="ub_pr_7.28">1There are no oil or other liquid spillages on the floor</string>
+    <string name="ub_pr_7.29">2All O and M activities are carried out by trained personnel and evidence of training is available</string>
+    <string name="ub_pr_7.30">3Safety protection on machines (safety switches, trip devices etc.) is not bypassed or made non-operational</string>
+    <string name="ub_pr_7.31">2All hot surfaces are guarded/appropriately marked</string>
+    <string name="ub_pr_7.32">2All chilled water conveying systems are properly insulated, marked and there is no risk of cold burns</string>
+    <string name="ub_pr_7.33">2All openings in the floor (sumps, drains, cable trenches, etc.) are appropriately closed and pose no trip hazard</string>
+    <string name="ub_pr_7.34">2Are cooling towers and condensers cleaned and maintained to prevent risk associated with Legionella bacteria?</string>
+    <string name="ub_pr_7.35">2Are proper access ways provided for inspection and  maintenance of cooling tower</string>
+    <string name="ub_pr_7.36">2Noise level test conducted and noise level is within prescribed limits (workplace noise)</string>
+    <string name="ub_pr_7.37">2Operators/technicians are using PPEs (ear muff, gloves, safety shoes etc.) while working near the operating equipment</string>
+    <string name="ub_pr_7.38">2Emergency stops on all machines are easily accessible, are in working condition and regularly tested</string>
+    <string name="ub_pr_7.39">1Adequate illumination is provided in the work areas, suitable to the type of activity being performed</string>
+    <string name="ub_pr_7.40">4Fire detection and alarm systems are provided in the utility and plant room areas and is in working condition</string>
+    <string name="ub_pr_7.41">3Emergency lighting is provided and in working condition</string>
+    <string name="ub_pr_7.42">4Emergency Exit signages are provided at all locations and easily visible</string>
+    <string name="ub_pr_7.43">4Exits and escape routes are clear</string>
+
+
+    <string name="lpg_8.1">3Only less than 100Kg of LPG is stored (if license is not obtained), all other cylinders are connected to the manifold.</string>
+    <string name="lpg_8.2">2Empty cylinders are capped and separate secure storage is available.</string>
+    <string name="lpg_8.3">1LPG license requirements / conditions of the explosive license are complied with (Applicable to the gas banks with more than 100 Kgs of LPG storage)</string>
+    <string name="lpg_8.4">3LPG gas leak detector is suitably mounted, maintained and tested regularly.</string>
+    <string name="lpg_8.5">2Clear indication of gas storage displayed in front of the LPG bank, No smoking and no mobile signs are displayed</string>
+    <string name="lpg_8.6">2No parking  of vehicles is enforced in front of LPG bank</string>
+    <string name="lpg_8.7">3Emergency shut off valve for LPG is provided out side the LPG bank, easily accessible, appropriately marked and operating signage displayed.</string>
+    <string name="lpg_8.8">2LPG leakage emergency procedures are available and security, admin and canteen supervisor are aware of emergency procedures.</string>
+    <string name="lpg_8.9">2Unauthorized entry to LPG bank area is prohibited, " Prohibited area" signage is displayed.</string>
+
+
+    <string name="cant_9.1">2Kitchen preparation area and cooking area is not slippery and proper drain arrangements are provided to avoid water stagnation</string>
+    <string name="cant_9.2">2All kitchen floors and equipment are clean and free of debris.</string>
+    <string name="cant_9.3">2Appropriate gear and tools are provided to the kitchen staff to avoid heat stress and direct contact with hot surfaces. Hot surfaces are identified and clearly marked.</string>
+    <string name="cant_9.4">2Adequate ventilation/exhaust/cooling arrangements are provided  to reduce heat / smoke exposure to kitchen staff</string>
+    <string name="cant_9.5">2All staff are wearing head gear, gloves, appropriate shoes and other PPEs(wherever required)</string>
+    <string name="cant_9.6">3Electrical equipment is inspected periodically, maintained and all moving parts, nip points are suitably guarded.</string>
+    <string name="cant_9.7">3All Electrical machines have joint free cables and appropriate terminations.</string>
+    <string name="cant_9.8">3Emergency shut off valve for LPG is provided in the kitchen area, easily accessible, appropriately marked and operating signage displayed.</string>
+    <string name="cant_9.9">3LPG gas leak detector is suitably mounted in the kitchen area, maintained and tested regularly. Kitchen staff is trained on emergency procedures in case of LPG leakage</string>
+    <string name="cant_9.10">3Fire detection and fire fighting arrangements are adequate. Fire extinguishers are serviced at regular intervals and service records are available. Kitchen staff is trained on fire extinguisher usage.</string>
+    <string name="cant_9.11">2Storage of raw food items and cooked food items is as per temperature requirements specified in TCS canteen guidelines</string>
+    <string name="cant_9.12">2Adequate staking arrangement is been provided in the store rooms (dry, raw, chillers etc). All articles are stored properly with less risk of falling objects or storage racks.</string>
+    <string name="cant_9.13">2Food hygiene and personal  hygiene checks are conducted as per the TCS canteen guidelines are records are maintained.</string>
+
+
+    <string name="general_10.1">3Glass doors at the entrance are not completely transparent and provided with translucent or opaque strips or designs for easy identification of closed doors</string>
+    <string name="general_10.2">2Path of sliding glass doors (if any) is clear and there is no likelihood of inadvertent obstruction by any person or object</string>
+    <string name="general_10.3">2Safety signage displayed near X-ray screening machines to prevent any inadvertent radiation exposure or injury to fingers due to entrapment between rollers (to associates as well as security staff)</string>
+    <string name="general_10.4">1Basement parking areas are adequately illuminated as per NBC / BEE standards</string>
+    <string name="general_10.5">3Emergency lights are provided in the basement area</string>
+    <string name="general_10.6">2Workplaces are smoke-free zones with appropriate signage displayed</string>
+    <string name="general_10.7">2There are no slip / trip and fall hazards</string>
+    <string name="general_10.8">2"Do Not Use the Lifts in the Event of Fire" notice displayed in the lift lobby</string>
+    <string name="general_10.9">1Lift license displayed inside the lift cabin as per Lift regulations</string>
+    <string name="general_10.10">1Lift maintenance carried out at regular intervals (preventive) and records maintained</string>
+    <string name="general_10.11">2Safety instructions displayed inside the lift cabin</string>
+    <string name="general_10.12">1Escalators are maintained and tested and records available</string>
+    <string name="general_10.13">2Emergency light is provided in the lift and is in working condition</string>
+    <string name="general_10.14">2Window Cradles, eyebolts and access equipment maintained and tested, the records are available</string>
+    <string name="general_10.15">3No slip / trip and fall hazards present in the staircase</string>
+    <string name="general_10.16">2Hand rails provided in the staircases on both sides</string>
+    <string name="general_10.17">3Any uneven step risers or treads are demarcated to draw the user\'s attention</string>
+    <string name="general_10.18">2Treads are non-slippery or provided with slip-resistant tape to prevent slips and falls</string>
+    <string name="general_10.19">2Edges of treads are not chipped or broken which could lead to trips and falls</string>
+    <string name="general_10.20">2In case of possibility of slipping through the sides of the staircase, toe-guards are provided</string>
+    <string name="general_10.21">1Any openings in the side walls of the staircase are adequately protected to prevent any person slipping through</string>
+    <string name="general_10.22">2Pest Control is carried out on regular basis and records are maintained</string>
+    <string name="general_10.23">3Electrical extension boards are not used unless certified by the electrician (for temporary use only)</string>
+    <string name="general_10.24">1All access to roofs, terraces are controlled/ manned by security personnel</string>
+
+
+    <string name="fire_prev_11.1">3Combustible materials are properly stored, away from sources of ignition like electrical connections / outlets or equipment</string>
+    <string name="fire_prev_11.2">3Office furniture, carpets, false ceiling and other interiors are made of materials that are either fire retardant or do not contribute to rapid spread of fire</string>
+    <string name="fire_prev_11.3">4Fire dampers in the AC ducts are operational in case of fire which helps in preventing spread of smoke through the AC ducts</string>
+    <string name="fire_prev_11.4">3Hydrant riser cupboards and service ducts locked and free from combustible materials</string>
+
+
+    <string name="fire_dec_alarm_12.1">4The building has a fully integrated maintained automatic fire detection and alarm system (addressable system consisting of smoke/heat detectors, manual call points, sounders and control panel)</string>
+    <string name="fire_dec_alarm_12.2">4For multi-occupancy buildings, TCS\' fire detection and alarm system is integrated with the overall building\'s fire detection and alarm system so that fire in any other premises of the building gets communicated to TCS</string>
+    <string name="fire_dec_alarm_12.3">5The fire detection and alarm system is fully operational covering all parts of the building</string>
+    <string name="fire_dec_alarm_12.4">5The fire detection and alarm system including manual call points is under AMC. Testing, inspection and maintenance are carried out as per schedule</string>
+    <string name="fire_dec_alarm_12.5">5The fire detection and alarm system has adequate back-up power source</string>
+    <string name="fire_dec_alarm_12.6">4Fire alarm call points and any other means of raising the alarm, unobstructed and positioned near fire escape routes on each floor (about 1.4m above floor level)</string>
+    <string name="fire_dec_alarm_12.7">5Space above the false ceiling provided with detectors and connected to fire detection and alarm system</string>
+    <string name="fire_dec_alarm_12.8">4Fire alarm audible throughout the building (strobe warning lights provided for areas where noise affects audibility of alarm e.g. Plant and machine rooms)</string>
+
+
+    <string name="emergency_escape_13.1">5The fire escape routes are adequately lit and provided with emergency lighting (internally and externally) and free of obstructions and material that can aid the spread of fire</string>
+    <string name="emergency_escape_13.2">4Luminescent marking is provided along emergency evacuation routes as per the HSE Signage Standards</string>
+    <string name="emergency_escape_13.3">4Emergency exits are not blocked or locked preventing easy evacuation during an emergency</string>
+    <string name="emergency_escape_13.4">5Fire doors are normally kept closed to prevent spread of smoke and fire into emergency escape staircases (particularly applicable to common staircases in multi-occupancy buildings)</string>
+    <string name="emergency_escape_13.5">3Floor numbers are clearly marked in the stairwell in luminescent signage</string>
+    <string name="emergency_escape_13.6">5No main gas piping, electrical shafts, A/C duct passing through or opening in staircase/s.  No floor or main electrical panel present in staircase/s.</string>
+    <string name="emergency_escape_13.7">4In case external escape staircase is provided, fire resistant door is provided and adequate distances from windows and walls (within 1.8m horizontally and 9m vertically below part of the stairway)</string>
+    <string name="emergency_escape_13.8">3The external escape staircase (if any) protected from weather effects, well maintained and provided with slip-resistant material</string>
+    <string name="emergency_escape_13.9">5Fire exits lead to a place of safety away from the building</string>
+    <string name="emergency_escape_13.10">5Openings to emergency exit staircase/s (except ground floor) provided with fire rated doors of at least ½ hour rating</string>
+    <string name="emergency_escape_13.11">4Fire rated doors to fire escape routes easily operable and not bolted or locked</string>
+    <string name="emergency_escape_13.12">3All doors on the fire escape route open in the direction of travel</string>
+
+
+    <string name="fire_fight_eqp_14.1">5Adequate fire extinguishers available and placed appropriately (so that a person does not have to travel more than 15 m to access one)</string>
+    <string name="fire_fight_eqp_14.2">5Fire extinguishers are easily accessible (free of obstructions)</string>
+    <string name="fire_fight_eqp_14.3">5If sprinklers provided, they have been maintained and tested</string>
+    <string name="fire_fight_eqp_14.4">3Internal hydrant points, hose reels are free of obstructions</string>
+    <string name="fire_fight_eqp_14.5">3Fire fighting system and equipment is under AMC and maintenance is carried out as per schedule</string>
+
+
+    <string name="utility_areas_15.1">2Doors of electrical distribution panels are properly secured to prevent unauthorized access</string>
+    <string name="utility_areas_15.2">1Single line wiring diagrams, Isolation checklist and procedure is available at all electric panels</string>
+    <string name="utility_areas_15.3">2There are no visible signs of overheating / smoke stains near or inside electrical distribution panels</string>
+    <string name="utility_areas_15.4">4There is no storage of items inside the distribution panel enclosure</string>
+    <string name="utility_areas_15.5">4Smoke detectors are provided in the distribution panel enclosures and are operational</string>
+    <string name="utility_areas_15.6">3Protective devices like MCBs, RCCBs, HRC fuses are installed, tested and maintained for preventing short-circuits, overloads, leakage currents and surges</string>
+    <string name="utility_areas_15.7">4Electrical wiring / cabling is of FRLS, HFFR type which prevents rapid spread of fire and generates less smoke in the event of fire</string>
+    <string name="utility_areas_15.8">3All electrical conduits are of rigid PVC or metal</string>
+    <string name="utility_areas_15.9">4Electrical DBs and circuits are appropriately labeled for easy identification</string>
+    <string name="utility_areas_15.10">2Floors near water coolers / dispensers / beverage vending machines / pantries are dry and free of any slip hazards</string>
+    <string name="utility_areas_15.11">2Adequate illumination (lux levels) is provided in the common areas (as per NBC / BEE guidelines)</string>
+    <string name="utility_areas_15.12">3Emergency lights in the corridors / passages / staircases are marked and specific maintenance protocol exists for such lights</string>
+    <string name="utility_areas_15.13">1All ducts and shafts are properly locked and secured so that there is no possibility of entry of unauthorized persons</string>
+    <string name="utility_areas_15.14">2Gratings are provided at all floor levels in the shafts and ducts to prevent falls</string>
+    <string name="utility_areas_15.15">2Provision for illumination is available in the shafts and ducts in case of any maintenance work</string>
+    <string name="utility_areas_15.16">3Electrical shafts have fire and smoke stops / seals provided at all floor openings to prevent vertical spread of fire and smoke</string>
+    <string name="utility_areas_15.17">3Openings for horizontal cable entries within the building are sealed to prevent spread of smoke and fire</string>
+    <string name="utility_areas_15.18">1There is a preventive maintenance schedule for all machinery and equipment and it is strictly adhered to</string>
+    <string name="utility_areas_15.19">2Regular rounds by maintenance personnel to monitor operating equipment (to spot any safety hazards)</string>
+    <string name="utility_areas_15.20">2Maintenance personnel are aware of and adopt safe work procedures during O and M of machinery / equipment</string>
+    <string name="utility_areas_15.21">2Maintenance personnel are aware of and use designated PPEs</string>
+    <string name="utility_areas_15.22">2Work permit system is in place and implemented</string>
+    <string name="utility_areas_15.23">3All electrical installations and portable electrical tools/equipment are maintained, tested and in good condition and the records of testing / inspection / calibration are available</string>
+    <string name="utility_areas_15.24">2Lock-Out Tag-Out procedure is in place and implemented in areas where hazardous energy is present (for example, electricity, air or water pressure, etc.)</string>
+    <string name="utility_areas_15.25">2AHU rooms are locked to prevent unauthorized entry</string>
+    <string name="utility_areas_15.26">5AHU rooms are free of clutter and storage of any material</string>
+    <string name="utility_areas_15.27">3Shock prevention arrangements such as rubber mats are provided near the electrical panel</string>
+    <string name="utility_areas_15.28">2Emergency lights are provided in the AHU room.</string>
+    <string name="utility_areas_15.29">2Noise levels outside AHU rooms is tested and within acceptable limits for indoor noise</string>
+    <string name="utility_areas_15.30">1There are no perceptible vibrations in the areas (floor / walls) within and adjoining the AHU rooms</string>
+    <string name="utility_areas_15.31">4Smoke detectors are provided in the AHU Rooms</string>
+    <string name="utility_areas_15.32">2Limit switches are provided for AHU doors so that the AHU trips in case any door of the AHU is opened. Also, the AHU does not start until the doors are closed</string>
+
+
+    <string name="storage_areas_16.1">1Adequate and designated storage spaces are available</string>
+    <string name="storage_areas_16.2">1Separate storage areas are provided for housekeeping chemicals, supplies, equipment spares and other items. Proper segregation of material is done</string>
+    <string name="storage_areas_16.3">1Separate designated space is provided for old IT equipment, electrical items and luminaries, lead-acid batteries and adequate controls are in place that they do not pose and safety or environmental hazard</string>
+    <string name="storage_areas_16.4">2Stacking of material is done in shelves or cupboards. In case material is stacked one over other, the stacks are reasonable in height, stable and not at risk of collapsing causing injury.</string>
+    <string name="storage_areas_16.5">2Shelves are in good condition without any bends or deformations (leading to loss in bearing capacity)</string>
+    <string name="storage_areas_16.6">4Storage of combustible scrap is kept to a minimum and in designated areas. Adequate fire fighting devices (fire extinguishers) are quickly accessible</string>
+    <string name="storage_areas_16.7">2Stacking is done in neat rows with sufficient aisle space between stacks for easy handling of material and reaching the farthest stack in case of an emergency (also applies to record rooms)</string>
+    <string name="storage_areas_16.8">2For material stacked at a height, proper ladder (aluminum, A-type) is provided</string>
+    <string name="storage_areas_16.9">5Clear space is provided between the ceiling and top of the stack, especially near light fittings</string>
+    <string name="storage_areas_16.10">4Fire extinguishers are available in the store rooms</string>
+    <string name="storage_areas_16.11">4Smoke detectors are provided inside the store room.</string>
+
+
+    <string name="data_center_17.1">5Emergency exits are clearly marked and exits are free of obstacles</string>
+    <string name="data_center_17.2">5Adequate fire fighting / extinguishing arrangements are provided such as FM 200, Novec etc. as applicable</string>
+    <string name="data_center_17.3">2Adequate caution boards and signages are displayed outside the data center about  the  suppression gas (as per MSDS) properties and precautions that need to be taken</string>
+    <string name="data_center_17.4">2Proper instructions are given informing the type of activation (auto or manual)</string>
+    <string name="data_center_17.5">4Control buttons are marked very clearly with colour codes and authorized persons including security trained on suppression gas activation and deactivation</string>
+    <string name="data_center_17.6">3Lone working is not permitted and a \'buddy system\' is followed in case work has to be carried out in the room for long durations</string>
+    <string name="data_center_17.7">4Fire suppression systems are inspected and monitored as per defined frequency and in working condition, heat / smoke detectors are not capped / covered.</string>
+    <string name="data_center_17.8">5No material storage in the hub/server rooms/data center</string>
+    <string name="data_center_17.9">4Adequate and appropriate fire extinguishers are provided</string>
+    <string name="data_center_17.10">1Ramps leading to server rooms / data centers have requisite slope (1:12) and have slip resistant flooring</string>
+
+
+    <string name="ups_room_18.1">4Proper temperature maintained in the UPS room to avoid over heating of batteries</string>
+    <string name="ups_room_18.2">2All wires are properly insulated and no worn out/ naked electric wires</string>
+    <string name="ups_room_18.3">2No acid leakages from batteries or crusted leads</string>
+    <string name="ups_room_18.4">2Proper earthing arrangements (including battery rack )provided and earthpit records maintained</string>
+    <string name="ups_room_18.5">4Adequate fire detection/extinguishing equipment provided</string>
+    <string name="ups_room_18.6">3Insulated rubber mats are provided in front of the UPS panel</string>
+    <string name="ups_room_18.7">3Emergency lighting is provided and has an identification mark</string>
+    <string name="ups_room_18.8">4No items are stored inside the room</string>
+
+
+    <string name="wash_room_19.1">2Toilets are clean and hygienic and records of periodic cleaning are maintained</string>
+    <string name="wash_room_19.2">2Liquid soap dispensers and toilet rolls are replenished regularly, especially towards the end of the workday</string>
+    <string name="wash_room_19.3">1Wet floors are mopped immediately and there are no slip and fall hazards</string>
+    <string name="wash_room_19.4">1Waste bins are emptied regularly and there are no overflowing bins</string>
+    <string name="wash_room_19.5">1Adequate lighting levels are provided in the washroom</string>
+    <string name="wash_room_19.6">2Emergency lighting is provided in the washroom and is in working condition</string>
+
+
+    <string name="workplace_20.1">3Aisles, passages within the work area are free of obstructions (chairs, boxes, etc.)</string>
+    <string name="workplace_20.2">3No trip hazards on the floor due to open junction boxes, upturned carpet edges or loose cables across the floor</string>
+    <string name="workplace_20.3">3Sharp corners that could injure people are eliminated by providing proper cover</string>
+    <string name="workplace_20.4">3Sudden changes in floor elevation or steps are clearly identified and marked</string>
+    <string name="workplace_20.5">4Signages for exits are adequate in numbers, size and visible from all locations in the module</string>
+    <string name="workplace_20.6">3Instruction notices detailing the actions to take in an emergency and floor plans showing the fire escape route and location of fire extinguishers on prominent display (e.g. meeting rooms, notice boards)</string>
+    <string name="workplace_20.7">4Emergency lights provided and in working condition, identified and marked</string>
+    <string name="workplace_20.8">2Ceiling is free of hazards from missing tiles, holes and water damage</string>
+    <string name="workplace_20.9">2Precautions in place to stop people/ materials falling from open edges</string>
+    <string name="workplace_20.10">5Adequate fire extinguishers provided in designated locations, easy to reach and without any obstructions</string>
+    <string name="workplace_20.11">4Fire extinguishers are routinely maintained</string>
+    <string name="workplace_20.12">3Workplace temperature maintained at 24 + 1 degrees C uniformly throughout the floorWorkplace temperature maintained at 24 + 1 degrees C uniformly throughout the floorWorkplace temperature maintained at 24 + 1 degrees C uniformly throughout the floor</string>
+    <string name="workplace_20.13">3No storage of boxes, files or papers below the desk</string>
+    <string name="workplace_20.14">3Adequate lighting levels as per NBC / BEE standards maintained in all work areas</string>
+    <string name="workplace_20.15">3First Aid boxes with approved contents provided</string>
+    <string name="workplace_20.16">3First Aid boxes do not contain date-expired items</string>
+    <string name="workplace_20.17">4Adequate number of First Aiders available (1 for 50 or fewer people; more than 100 people – 1 additional First Aider per 100 people)</string>
+    <string name="workplace_20.18">3"Emergency telephone numbers" are displayed in prominent places</string>
+    <string name="workplace_20.19">3Fire Committee Organization Chart with names and contact details are displayed in all floors/ODCs</string>
+    <string name="workplace_20.20">2Identification signage is provided for Floor Marshalls for easy contact</string>
+    <string name="workplace_20.21">4Associates understand fire emergency procedures and new employees have received emergency preparedness awareness induction at the workplace</string>
+    <string name="workplace_20.22">3Ergonomically compliant workstations and chairs have been provided to all associates</string>
+    <string name="workplace_20.23">2Workstations are regularly cleaned</string>
+    <string name="workplace_20.24">2Openable/Slidable windows (if any) are securely locked</string>
+    <string name="workplace_20.25">2Floor tiles are not slippery</string>
+    <string name="workplace_20.26">2Display screen equipment is placed at appropriate positions on the desks</string>
+    <string name="workplace_20.27">2Associates demonstrate general awareness of ergonomic work postures</string>
+    <string name="workplace_20.28">4Adequate number of exits are provided for each module meeting NBC requirements</string>
+    <string name="workplace_20.29">5All secured doors of exits get deactivated in case of an emergency alarm</string>
+    <string name="workplace_20.30">5All doors of emergency and other exits open outwards to facilitate speedy evacuation</string>
+    <string name="workplace_20.31">3All exits (including emergency exits) are free of obstructions, slip / trip and fall hazards and accessible at all times</string>
+    <string name="workplace_20.32">3Travel distances to nearest exits are adequate as per NBC requirements (18m for single exit, 30m for more than one exit for non-sprinklered and 45m for sprinklered building)</string>
+    <string name="workplace_20.33">4Exits are of sufficient width to accommodate the safe evacuation of people (900mm up to 100 persons, 1050mm for up to 200 persons and additional 75mm for every additional 15 persons over 200)</string>
+
+
+    <string name="general_21.1">3All contractor staff have received induction training and records are available</string>
+    <string name="general_21.2">2Contractor work is adequately supervised by nominated supervisors</string>
+    <string name="general_21.3">3Supervisors conduct safety briefing for staff on regular basis</string>
+    <string name="general_21.4">2Documented work procedures are available with contractors for high risk activities</string>
+    <string name="general_21.5">3Lock-Out Tag-Out system is followed for all maintenance activities involving hazardous energy</string>
+    <string name="general_21.6">3Safety signage / Caution Boards are used for marking temporary hazards? (e.g. caution – wet floor)</string>
+    <string name="general_21.7">2All portable electrical tools (drills, etc.) are in good condition with double body earthing. The earthing is tested for continuity on periodic basis</string>
+    <string name="general_21.8">2All contractor equipment brought to site is periodically inspected or when it is deployed at site</string>
+    <string name="general_21.9">2Appropriate signages are provided for highlighting potential hazards</string>
+    <string name="general_21.10">2Housekeeping in the DG room/enclosure, chiller plant room and other utility areas is good</string>
+    <string name="general_21.11">2Storage areas for material, including scrap are clearly demarcated and storage is organized well with aisles / access paths provided between storage racks for easy access</string>
+    <string name="general_21.12">4All contractor staff have received emergency preparedness training and records are available</string>
+
+
+    <string name="work_height_22.1">2Persons working at height are medically fit to do so and Internal assurance is in place</string>
+    <string name="work_height_22.2">2Scaffolding  is erected by trained and competent personnel</string>
+    <string name="work_height_22.3">1Scaffolds are periodically fitness tested, tagged and records are maintained</string>
+    <string name="work_height_22.4">2All vertical ladders over 10 m are provided with fall protection system (ladder cage, life line etc.)</string>
+    <string name="work_height_22.5">3Procedure in place to  barricade the area below the work at height and placement of signages</string>
+    <string name="work_height_22.6">2Fall prevention/ fall arrest harness systems are registered and tested</string>
+    <string name="work_height_22.7">2Ladders, scaffolds, fall protection equipment are tested periodically and records are maintained</string>
+    <string name="work_height_22.8">2Safety cages are provided on fixed vertical ladders over 2.5 meters</string>
+    <string name="work_height_22.9">1Access to vertical ladders is only for authorized persons</string>
+
+
+    <string name="work_noise_23.1">1Work areas above 90 dBA are clearly designated with signage</string>
+    <string name="work_noise_23.2">2High noise level area (85 dBA) is reviewed for the noise reduction</string>
+    <string name="work_noise_23.3">2The use of hearing protection is audited/inspected</string>
+    <string name="work_noise_23.4">2Suitable hearing protection is provided for above dBA and ensured it is worn all the time.</string>
+    <string name="work_noise_23.5">2Staff are trained on noise at work and safe work practice</string>
+    <string name="work_noise_23.6">2Regular hearing checks are carried out for all employees at risk and records are maintained</string>
+
+
+    <string name="permit_work_24.1">3Permit-to-work system is followed for relevant activities (hot work, electrical work, etc.)</string>
+    <string name="permit_work_24.2">3Safety measures are available as mentioned in work permit</string>
+    <string name="permit_work_24.3">3Briefing is done on hazards and safe working before issue of work permit</string>
+    <string name="permit_work_24.4">2Work permits are used only for a single shift and displayed during work</string>
+    <string name="permit_work_24.5">2License or competency are checked for contractors before carrying out the work</string>
+
+
+    <string name="prsnl_prot_eqp_25.1">1PPE requirements are identified for all the jobs and a list is available</string>
+    <string name="prsnl_prot_eqp_25.2">2All PPEs in use are appropriate for the nature of work performed and in good condition</string>
+    <string name="prsnl_prot_eqp_25.3">2Adequate number of PPEs are available at site and stored appropriately</string>
+    <string name="prsnl_prot_eqp_25.4">2Employees are given information/ instruction /training on how to use and care for PPE</string>
+    <string name="prsnl_prot_eqp_25.5">3All jobs have been evaluated for manual handling needs</string>
+    <string name="prsnl_prot_eqp_25.6">2Lifting aids have been provided for the jobs requiring hoisting more than 25 Kgs</string>
+    <string name="prsnl_prot_eqp_25.7">2Employees are trained on safe manual handling techniques</string>
+
+
+    <string name="emergency_26.1">4Emergency evacuation drills are conducted on quarterly basis</string>
+    <string name="emergency_26.2">4Fire Wardens are appointed for each floor (minimum 2 for each floor)</string>
+    <string name="emergency_26.3">4Roles and responsibilities for fire emergencies clearly defined and understood by Fire Wardens / Marshals</string>
+    <string name="emergency_26.4">5Fire Wardens and Marshals received the appropriate fire safety training</string>
+    <string name="emergency_26.5">5Arrangements are in place for the safe evacuation of mobility impaired / disabled staff / expectant mothers</string>
+    <string name="emergency_26.6">5Visitors are given information with regard to fire and other emergency arrangements when they arrive on site</string>
+    <string name="emergency_26.7">4Floor Plan is displayed showing the fire escape routes and locations of fire fighting equipment</string>
+    <string name="emergency_26.8">4Fire exit doors are marked internally as well as externally with the appropriate signs to indicate that the door should not be obstructed</string>
+    <string name="emergency_26.9">4Fire extinguisher locations are clearly indicated with appropriate signage</string>
+    <string name="emergency_26.10">4Names and contact numbers of Fire Marshall / Fire Wardens have been displayed at prominent locations</string>
+    <string name="emergency_26.11">3Certified First Aiders are available and names and contact numbers are prominently displayed</string>
+    <string name="emergency_26.12">4Procedure for reporting emergencies  with the emergency contact numbers have been displayed at prominent locations</string>
+</resources>

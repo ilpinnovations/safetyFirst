@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string-array name="general_1_elements">
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/general_safety</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/emergency_prep</item>
+    </string-array>
+
+    <string-array name="vehicle_movement_2_elements">
+        <item>@string/vehicular_safety</item>
+        <item>@string/vehicular_safety</item>
+        <item>@string/vehicular_safety</item>
+        <item>@string/vehicular_safety</item>
+        <item>@string/vehicular_safety</item>
+        <item>@string/vehicular_safety</item>
+        <item>@string/vehicular_safety</item>
+        <item>@string/Safety_Signage</item>
+        <item>@string/vehicular_safety</item>
+        <item>@string/vehicular_safety</item>
+        <item>@string/vehicular_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+    </string-array>
+
+
+    <string-array name="transform_area_3_elements">
+        <item>@string/electrical_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/Safety_Signage</item>
+        <item>@string/fire_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/electrical_safety</item>
+    </string-array>
+
+
+    <string-array name="electric_panel_4_elements">
+        <item>@string/workplace_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/use_of_PPEs</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/Safety_Signage</item>
+        <item>@string/safe_work</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/electrical_safety</item>
+    </string-array>
+
+
+    <string-array name="dg_diesel_storage_5_elements">
+        <item>@string/safe_work</item>
+        <item>@string/plant_machinery_euip</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/use_of_PPEs</item>
+        <item>@string/use_of_PPEs</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/plant_machinery_euip</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/Chemical_Safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/Safety_Signage</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/emergency_prep</item>
+    </string-array>
+
+
+    <string-array name="water_treatment_stp_6_elements">
+        <item>@string/workplace_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/plant_machinery_euip</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/use_of_PPEs</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/Chemical_Safety</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/safe_work</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/safe_work</item>
+        <item>@string/safe_work</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+    </string-array>
+
+    <string-array name="utility_block_pant_room_7_elements">
+        <item>@string/workplace_safety</item>
+        <item>@string/plant_machinery_euip</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/safe_work</item>
+        <item>@string/safe_work</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/use_of_PPEs</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+    </string-array>
+
+    <string-array name="lpg_bank_8_elements">
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/fire_safety</item>
+    </string-array>
+
+    <string-array name="canteen_9_elements">
+        <item>@string/workplace_safety</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/general_safety</item>
+        <item>@string/health_hygiene</item>
+    </string-array>
+
+    <string-array name="general_10_elements">
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/Safety_Signage</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/electrical_safety</item>
+        <!-- Added manually-->
+    </string-array>
+
+
+    <string-array name="fire_prevention_11_elements">
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+    </string-array>
+
+    <string-array name="fire_detection_and_alarm_12_elements">
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+    </string-array>
+
+
+    <string-array name="emergency_escape_routes_13_elements">
+        <item>@string/fire_safety</item>
+        <item>@string/Safety_Signage</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/fire_safety</item>
+        <item>@string/Safety_Signage</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+    </string-array>
+
+    <string-array name="fire_fighting_equipment_14_elements">
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+    </string-array>
+
+
+    <string-array name="utility_areas_and_ahu_15_elements">
+        <item>@string/plant_machinery_euip</item>
+        <item>@string/safe_work</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/general_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/plant_machinery_euip</item>
+        <item>@string/plant_machinery_euip</item>
+        <item>@string/safe_work</item>
+        <item>@string/use_of_PPEs</item>
+        <item>@string/safe_work</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/plant_machinery_euip</item>
+        <item>@string/fire_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/workplace_safety</item>
+    </string-array>
+
+
+    <string-array name="storage_areas_16_elements">
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+    </string-array>
+
+
+    <string-array name="data_center_server_17_elements">
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/Safety_Signage</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/fire_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/general_safety</item>
+    </string-array>
+
+
+    <string-array name="ups_room_18_elements">
+        <item>@string/fire_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/Chemical_Safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/electrical_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/fire_safety</item>
+    </string-array>
+
+    <string-array name="washrooms_and_toilets_19_elements">
+        <item>@string/health_hygiene</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/emergency_prep</item>
+    </string-array>
+
+
+    <string-array name="workplace_20_elements">
+        <item>@string/workplace_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/Safety_Signage</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/fire_safety</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/first_aid</item>
+        <item>@string/first_aid</item>
+        <item>@string/first_aid</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/workplace_safety</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/health_hygiene</item>
+        <item>@string/fire_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/general_safety</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+    </string-array>
+
+
+    <string-array name="general_21_elements">
+        <item>@string/contractor_safety</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/Safety_Signage</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/Safety_Signage</item>
+        <item>@string/housekeeping</item>
+        <item>@string/housekeeping</item>
+        <item>@string/emergency_prep</item>
+    </string-array>
+
+
+    <string-array name="working_at_height_22_elements">
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/general_safety</item>
+        <item>@string/general_safety</item>
+    </string-array>
+
+
+    <string-array name="working_at_high_noise_23_elements">
+        <item>@string/Safety_Signage</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/contractor_safety</item>
+    </string-array>
+
+
+    <string-array name="permit_to_work_system_24_elements">
+        <item>@string/safe_work</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/safe_work</item>
+        <item>@string/contractor_safety</item>
+    </string-array>
+
+
+    <string-array name="personal_protective_equipments_25_elements">
+        <item>@string/contractor_safety</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/contractor_safety</item>
+        <item>@string/safe_work</item>
+        <item>@string/safe_work</item>
+        <item>@string/contractor_safety</item>
+    </string-array>
+
+
+    <string-array name="emergency_preparedness_response_plan_26_elements">
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/Safety_Signage</item>
+        <item>@string/Safety_Signage</item>
+        <item>@string/Safety_Signage</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+        <item>@string/emergency_prep</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tcs.sitesafety.MainActivity">
+
+    <item
+        android:id="@+id/action_history"
+        android:title="@string/history"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_setting"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_change_location"
+        android:title="@string/change_loc"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_servey_details_logout"
+        android:title="@string/Logout"
+        app:showAsAction="never" />
+
+</menu>

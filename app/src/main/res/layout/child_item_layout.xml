@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvChildTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:padding="@dimen/padding_medium"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/tvElement"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/padding_medium"
+            android:textColor="@color/black" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:orientation="horizontal">
+
+            <RadioGroup
+                android:id="@+id/rgResponse"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/rbYES"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/yes_selector"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:padding="@dimen/padding_medium"
+                    android:text="@string/yes"
+                    android:textColor="@drawable/rb_text_selector" />
+
+                <RadioButton
+                    android:id="@+id/rbNA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/na_selector"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:padding="@dimen/padding_medium"
+                    android:text="@string/na"
+                    android:textColor="@drawable/rb_text_selector" />
+
+                <RadioButton
+                    android:id="@+id/rbNO"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/no_selector"
+                    android:button="@null"
+                    android:gravity="center"
+                    android:padding="@dimen/padding_medium"
+                    android:text="@string/no"
+                    android:textColor="@drawable/rb_text_selector" />
+            </RadioGroup>
+
+            <ImageButton
+                android:id="@+id/ibExpand"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/margin_small"
+                android:layout_marginStart="@dimen/margin_small"
+                android:background="@color/colorAccent"
+                android:paddingLeft="@dimen/padding_small"
+                android:paddingRight="@dimen/padding_small"
+                android:src="@drawable/ic_arrow_down"
+                tools:ignore="ContentDescription" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <include layout="@layout/add_layout" />
+
+</LinearLayout>

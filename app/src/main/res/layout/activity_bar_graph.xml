@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_bar_graph"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.ilp.tcs.sitesafety.activity.BarGraphActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:layout_width="match_parent"
+            android:layout_height="380dp"
+            android:id="@+id/bg_calculation">
+        </com.github.mikephil.charting.charts.BarChart>
+
+        <RelativeLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="left"
+            android:layout_below="@+id/bg_calculation">
+
+            <LinearLayout
+                android:id="@+id/ll1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/ib_1"
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:background="@color/redbar"/>
+
+                <TextView
+                    android:id="@+id/tex1"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="General Safety"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/ib_1"
+                    android:layout_toEndOf="@+id/ib_1"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll2"
+                android:layout_below="@+id/ll1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/ib_2"
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:background="@color/orangebar"/>
+
+                <TextView
+                    android:id="@+id/tex2"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Fire Safety"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/ib_1"
+                    android:layout_toEndOf="@+id/ib_1"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll3"
+                android:layout_below="@+id/ll2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/ib_3"
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:background="@color/greenbar"/>
+
+                <TextView
+                    android:id="@+id/tex3"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Electrical Safety"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/ib_1"
+                    android:layout_toEndOf="@+id/ib_1"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll4"
+                android:layout_below="@+id/ll3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/ib_4"
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:background="@color/yellowbar"/>
+
+                <TextView
+                    android:id="@+id/tex4"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Emergency Preparedness"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/ib_1"
+                    android:layout_toEndOf="@+id/ib_1"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll5"
+                android:layout_below="@+id/ll4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/ib_5"
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:background="@color/bg_screen5"/>
+
+                <TextView
+                    android:id="@+id/tex5"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="WorkPlace Safety"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/ib_1"
+                    android:layout_toEndOf="@+id/ib_1"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll6"
+                android:layout_below="@+id/ll5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/ib_6"
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:background="@color/bg_screen7"/>
+
+                <TextView
+                    android:id="@+id/tex6"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SafeWork Practices"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/ib_1"
+                    android:layout_toEndOf="@+id/ib_1"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll7"
+                android:layout_below="@+id/ll6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/ib_7"
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:background="@color/bg_screen1"/>
+
+                <TextView
+                    android:id="@+id/tex7"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Vehicular Safety"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/ib_1"
+                    android:layout_toEndOf="@+id/ib_1"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll8"
+                android:layout_below="@+id/ll7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/ib_8"
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:background="@color/bg_screen2"/>
+
+                <TextView
+                    android:id="@+id/tex8"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Contractor Safety"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/ib_1"
+                    android:layout_toEndOf="@+id/ib_1"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll9"
+                android:layout_below="@+id/ll8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/ib_9"
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:background="@color/bg_screen3"/>
+
+                <TextView
+                    android:id="@+id/tex9"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Health and Hygiene"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/ib_1"
+                    android:layout_toEndOf="@+id/ib_1"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/ll10"
+                android:layout_below="@+id/ll9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/ib_10"
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:background="@color/bg_screen4"/>
+
+                <TextView
+                    android:id="@+id/tex10"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Safety Signage"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/ib_1"
+                    android:layout_toEndOf="@+id/ib_1"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp" />
+            </LinearLayout>
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
+
+
+    <!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--xmlns:tools="http://schemas.android.com/tools"-->
+    <!--android:id="@+id/activity_bar_graph"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:paddingBottom="@dimen/activity_vertical_margin"-->
+    <!--android:paddingLeft="16dp"-->
+    <!--android:paddingRight="16dp"-->
+    <!--android:paddingTop="@dimen/activity_vertical_margin"-->
+    <!--tools:context="com.ilp.tcs.sitesafety.activity.BarGraphActivity">-->
+
+
+
+
+    <!--</RelativeLayout>-->

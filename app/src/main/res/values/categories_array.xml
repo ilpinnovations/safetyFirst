@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="general_1">
+        <item>@string/general_1.1</item>
+        <item>@string/general_1.2</item>
+        <item>@string/general_1.3</item>
+        <item>@string/general_1.4</item>
+        <item>@string/general_1.5</item>
+        <item>@string/general_1.6</item>
+        <item>@string/general_1.7</item>
+        <item>@string/general_1.8</item>
+        <item>@string/general_1.9</item>
+        <item>@string/general_1.10</item>
+        <item>@string/general_1.11</item>
+        <item>@string/general_1.12</item>
+        <item>@string/general_1.13</item>
+        <item>@string/general_1.14</item>
+        <item>@string/general_1.15</item>
+        <item>@string/general_1.16</item>
+        <item>@string/general_1.17</item>
+    </string-array>
+
+    <string-array name="vehicle_movement_2">
+        <item>@string/veh_mov_2.1</item>
+        <item>@string/veh_mov_2.2</item>
+        <item>@string/veh_mov_2.3</item>
+        <item>@string/veh_mov_2.4</item>
+        <item>@string/veh_mov_2.5</item>
+        <item>@string/veh_mov_2.6</item>
+        <item>@string/veh_mov_2.7</item>
+        <item>@string/veh_mov_2.8</item>
+        <item>@string/veh_mov_2.9</item>
+        <item>@string/veh_mov_2.10</item>
+        <item>@string/veh_mov_2.11</item>
+        <item>@string/veh_mov_2.12</item>
+        <item>@string/veh_mov_2.13</item>
+    </string-array>
+
+    <string-array name="transform_area_3">
+        <item>@string/trans_area_3.1</item>
+        <item>@string/trans_area_3.2</item>
+        <item>@string/trans_area_3.3</item>
+        <item>@string/trans_area_3.4</item>
+        <item>@string/trans_area_3.5</item>
+        <item>@string/trans_area_3.6</item>
+        <item>@string/trans_area_3.7</item>
+        <item>@string/trans_area_3.8</item>
+        <item>@string/trans_area_3.9</item>
+        <item>@string/trans_area_3.10</item>
+        <item>@string/trans_area_3.11</item>
+        <item>@string/trans_area_3.12</item>
+    </string-array>
+
+    <string-array name="electric_panel_4">
+        <item>@string/elec_panel_4.1</item>
+        <item>@string/elec_panel_4.2</item>
+        <item>@string/elec_panel_4.3</item>
+        <item>@string/elec_panel_4.4</item>
+        <item>@string/elec_panel_4.5</item>
+        <item>@string/elec_panel_4.6</item>
+        <item>@string/elec_panel_4.7</item>
+        <item>@string/elec_panel_4.8</item>
+        <item>@string/elec_panel_4.9</item>
+        <item>@string/elec_panel_4.10</item>
+        <item>@string/elec_panel_4.11</item>
+        <item>@string/elec_panel_4.12</item>
+        <item>@string/elec_panel_4.13</item>
+        <item>@string/elec_panel_4.14</item>
+        <item>@string/elec_panel_4.15</item>
+        <item>@string/elec_panel_4.16</item>
+        <item>@string/elec_panel_4.17</item>
+        <item>@string/elec_panel_4.18</item>
+        <item>@string/elec_panel_4.19</item>
+    </string-array>
+
+    <string-array name="dg_diesel_storage_5">
+        <item>@string/dg_ds_5.1</item>
+        <item>@string/dg_ds_5.2</item>
+        <item>@string/dg_ds_5.3</item>
+        <item>@string/dg_ds_5.4</item>
+        <item>@string/dg_ds_5.5</item>
+        <item>@string/dg_ds_5.6</item>
+        <item>@string/dg_ds_5.7</item>
+        <item>@string/dg_ds_5.8</item>
+        <item>@string/dg_ds_5.9</item>
+        <item>@string/dg_ds_5.10</item>
+        <item>@string/dg_ds_5.11</item>
+        <item>@string/dg_ds_5.12</item>
+        <item>@string/dg_ds_5.13</item>
+        <item>@string/dg_ds_5.14</item>
+        <item>@string/dg_ds_5.15</item>
+        <item>@string/dg_ds_5.16</item>
+        <item>@string/dg_ds_5.17</item>
+        <item>@string/dg_ds_5.18</item>
+        <item>@string/dg_ds_5.19</item>
+        <item>@string/dg_ds_5.20</item>
+        <item>@string/dg_ds_5.21</item>
+        <item>@string/dg_ds_5.22</item>
+        <item>@string/dg_ds_5.23</item>
+        <item>@string/dg_ds_5.24</item>
+        <item>@string/dg_ds_5.25</item>
+        <item>@string/dg_ds_5.26</item>
+        <item>@string/dg_ds_5.27</item>
+        <item>@string/dg_ds_5.28</item>
+        <item>@string/dg_ds_5.29</item>
+        <item>@string/dg_ds_5.30</item>
+        <item>@string/dg_ds_5.31</item>
+        <item>@string/dg_ds_5.32</item>
+        <item>@string/dg_ds_5.33</item>
+        <item>@string/dg_ds_5.34</item>
+        <item>@string/dg_ds_5.35</item>
+        <item>@string/dg_ds_5.36</item>
+        <item>@string/dg_ds_5.37</item>
+        <item>@string/dg_ds_5.38</item>
+    </string-array>
+
+    <string-array name="water_treatment_stp_6">
+        <item>@string/water_tret_6.1</item>
+        <item>@string/water_tret_6.2</item>
+        <item>@string/water_tret_6.3</item>
+        <item>@string/water_tret_6.4</item>
+        <item>@string/water_tret_6.5</item>
+        <item>@string/water_tret_6.6</item>
+        <item>@string/water_tret_6.7</item>
+        <item>@string/water_tret_6.8</item>
+        <item>@string/water_tret_6.9</item>
+        <item>@string/water_tret_6.10</item>
+        <item>@string/water_tret_6.11</item>
+        <item>@string/water_tret_6.12</item>
+        <item>@string/water_tret_6.13</item>
+        <item>@string/water_tret_6.14</item>
+        <item>@string/water_tret_6.15</item>
+        <item>@string/water_tret_6.16</item>
+        <item>@string/water_tret_6.17</item>
+        <item>@string/water_tret_6.18</item>
+        <item>@string/water_tret_6.19</item>
+        <item>@string/water_tret_6.20</item>
+        <item>@string/water_tret_6.21</item>
+        <item>@string/water_tret_6.22</item>
+        <item>@string/water_tret_6.23</item>
+        <item>@string/water_tret_6.24</item>
+        <item>@string/water_tret_6.25</item>
+        <item>@string/water_tret_6.26</item>
+    </string-array>
+
+    <string-array name="utility_block_pant_room_7">
+        <item>@string/ub_pr_7.1</item>
+        <item>@string/ub_pr_7.2</item>
+        <item>@string/ub_pr_7.3</item>
+        <item>@string/ub_pr_7.4</item>
+        <item>@string/ub_pr_7.5</item>
+        <item>@string/ub_pr_7.6</item>
+        <item>@string/ub_pr_7.7</item>
+        <item>@string/ub_pr_7.8</item>
+        <item>@string/ub_pr_7.9</item>
+        <item>@string/ub_pr_7.10</item>
+        <item>@string/ub_pr_7.11</item>
+        <item>@string/ub_pr_7.12</item>
+        <item>@string/ub_pr_7.13</item>
+        <item>@string/ub_pr_7.14</item>
+        <item>@string/ub_pr_7.15</item>
+        <item>@string/ub_pr_7.16</item>
+        <item>@string/ub_pr_7.17</item>
+        <item>@string/ub_pr_7.18</item>
+        <item>@string/ub_pr_7.19</item>
+        <item>@string/ub_pr_7.20</item>
+        <item>@string/ub_pr_7.21</item>
+        <item>@string/ub_pr_7.22</item>
+        <item>@string/ub_pr_7.23</item>
+        <item>@string/ub_pr_7.24</item>
+        <item>@string/ub_pr_7.25</item>
+        <item>@string/ub_pr_7.26</item>
+        <item>@string/ub_pr_7.27</item>
+        <item>@string/ub_pr_7.28</item>
+        <item>@string/ub_pr_7.29</item>
+        <item>@string/ub_pr_7.30</item>
+        <item>@string/ub_pr_7.31</item>
+        <item>@string/ub_pr_7.32</item>
+        <item>@string/ub_pr_7.33</item>
+        <item>@string/ub_pr_7.34</item>
+        <item>@string/ub_pr_7.35</item>
+        <item>@string/ub_pr_7.36</item>
+        <item>@string/ub_pr_7.37</item>
+        <item>@string/ub_pr_7.38</item>
+        <item>@string/ub_pr_7.39</item>
+        <item>@string/ub_pr_7.40</item>
+        <item>@string/ub_pr_7.41</item>
+        <item>@string/ub_pr_7.42</item>
+        <item>@string/ub_pr_7.43</item>
+    </string-array>
+
+    <string-array name="lpg_bank_8">
+        <item>@string/lpg_8.1</item>
+        <item>@string/lpg_8.2</item>
+        <item>@string/lpg_8.3</item>
+        <item>@string/lpg_8.4</item>
+        <item>@string/lpg_8.5</item>
+        <item>@string/lpg_8.6</item>
+        <item>@string/lpg_8.7</item>
+        <item>@string/lpg_8.8</item>
+        <item>@string/lpg_8.9</item>
+    </string-array>
+
+    <string-array name="canteen_9">
+        <item>@string/cant_9.1</item>
+        <item>@string/cant_9.2</item>
+        <item>@string/cant_9.3</item>
+        <item>@string/cant_9.4</item>
+        <item>@string/cant_9.5</item>
+        <item>@string/cant_9.6</item>
+        <item>@string/cant_9.7</item>
+        <item>@string/cant_9.8</item>
+        <item>@string/cant_9.9</item>
+        <item>@string/cant_9.10</item>
+        <item>@string/cant_9.11</item>
+        <item>@string/cant_9.12</item>
+        <item>@string/cant_9.13</item>
+    </string-array>
+
+    <string-array name="general_10">
+        <item>@string/general_10.1</item>
+        <item>@string/general_10.2</item>
+        <item>@string/general_10.3</item>
+        <item>@string/general_10.4</item>
+        <item>@string/general_10.5</item>
+        <item>@string/general_10.6</item>
+        <item>@string/general_10.7</item>
+        <item>@string/general_10.8</item>
+        <item>@string/general_10.9</item>
+        <item>@string/general_10.10</item>
+        <item>@string/general_10.11</item>
+        <item>@string/general_10.12</item>
+        <item>@string/general_10.13</item>
+        <item>@string/general_10.14</item>
+        <item>@string/general_10.15</item>
+        <item>@string/general_10.16</item>
+        <item>@string/general_10.17</item>
+        <item>@string/general_10.18</item>
+        <item>@string/general_10.19</item>
+        <item>@string/general_10.20</item>
+        <item>@string/general_10.21</item>
+        <item>@string/general_10.22</item>
+        <item>@string/general_10.23</item>
+        <item>@string/general_10.24</item>
+    </string-array>
+
+    <string-array name="fire_prevention_11">
+        <item>@string/fire_prev_11.1</item>
+        <item>@string/fire_prev_11.2</item>
+        <item>@string/fire_prev_11.3</item>
+        <item>@string/fire_prev_11.4</item>
+    </string-array>
+
+    <string-array name="fire_detection_and_alarm_12">
+        <item>@string/fire_dec_alarm_12.1</item>
+        <item>@string/fire_dec_alarm_12.2</item>
+        <item>@string/fire_dec_alarm_12.3</item>
+        <item>@string/fire_dec_alarm_12.4</item>
+        <item>@string/fire_dec_alarm_12.5</item>
+        <item>@string/fire_dec_alarm_12.6</item>
+        <item>@string/fire_dec_alarm_12.7</item>
+        <item>@string/fire_dec_alarm_12.8</item>
+    </string-array>
+
+    <string-array name="emergency_escape_routes_13">
+        <item>@string/emergency_escape_13.1</item>
+        <item>@string/emergency_escape_13.2</item>
+        <item>@string/emergency_escape_13.3</item>
+        <item>@string/emergency_escape_13.4</item>
+        <item>@string/emergency_escape_13.5</item>
+        <item>@string/emergency_escape_13.6</item>
+        <item>@string/emergency_escape_13.7</item>
+        <item>@string/emergency_escape_13.8</item>
+        <item>@string/emergency_escape_13.9</item>
+        <item>@string/emergency_escape_13.10</item>
+        <item>@string/emergency_escape_13.11</item>
+        <item>@string/emergency_escape_13.12</item>
+    </string-array>
+
+    <string-array name="fire_fighting_equipment_14">
+        <item>@string/fire_fight_eqp_14.1</item>
+        <item>@string/fire_fight_eqp_14.2</item>
+        <item>@string/fire_fight_eqp_14.3</item>
+        <item>@string/fire_fight_eqp_14.4</item>
+        <item>@string/fire_fight_eqp_14.5</item>
+    </string-array>
+
+    <string-array name="utility_areas_and_ahu_15">
+        <item>@string/utility_areas_15.1</item>
+        <item>@string/utility_areas_15.2</item>
+        <item>@string/utility_areas_15.3</item>
+        <item>@string/utility_areas_15.4</item>
+        <item>@string/utility_areas_15.5</item>
+        <item>@string/utility_areas_15.6</item>
+        <item>@string/utility_areas_15.7</item>
+        <item>@string/utility_areas_15.8</item>
+        <item>@string/utility_areas_15.9</item>
+        <item>@string/utility_areas_15.10</item>
+        <item>@string/utility_areas_15.11</item>
+        <item>@string/utility_areas_15.12</item>
+        <item>@string/utility_areas_15.13</item>
+        <item>@string/utility_areas_15.14</item>
+        <item>@string/utility_areas_15.15</item>
+        <item>@string/utility_areas_15.16</item>
+        <item>@string/utility_areas_15.17</item>
+        <item>@string/utility_areas_15.18</item>
+        <item>@string/utility_areas_15.19</item>
+        <item>@string/utility_areas_15.20</item>
+        <item>@string/utility_areas_15.21</item>
+        <item>@string/utility_areas_15.22</item>
+        <item>@string/utility_areas_15.23</item>
+        <item>@string/utility_areas_15.24</item>
+        <item>@string/utility_areas_15.25</item>
+        <item>@string/utility_areas_15.26</item>
+        <item>@string/utility_areas_15.27</item>
+        <item>@string/utility_areas_15.28</item>
+        <item>@string/utility_areas_15.29</item>
+        <item>@string/utility_areas_15.30</item>
+        <item>@string/utility_areas_15.31</item>
+        <item>@string/utility_areas_15.32</item>
+    </string-array>
+
+    <string-array name="storage_areas_16">
+        <item>@string/storage_areas_16.1</item>
+        <item>@string/storage_areas_16.2</item>
+        <item>@string/storage_areas_16.3</item>
+        <item>@string/storage_areas_16.4</item>
+        <item>@string/storage_areas_16.5</item>
+        <item>@string/storage_areas_16.6</item>
+        <item>@string/storage_areas_16.7</item>
+        <item>@string/storage_areas_16.8</item>
+        <item>@string/storage_areas_16.9</item>
+        <item>@string/storage_areas_16.10</item>
+        <item>@string/storage_areas_16.11</item>
+    </string-array>
+
+    <string-array name="data_center_server_17">
+        <item>@string/data_center_17.1</item>
+        <item>@string/data_center_17.2</item>
+        <item>@string/data_center_17.3</item>
+        <item>@string/data_center_17.4</item>
+        <item>@string/data_center_17.5</item>
+        <item>@string/data_center_17.6</item>
+        <item>@string/data_center_17.7</item>
+        <item>@string/data_center_17.8</item>
+        <item>@string/data_center_17.9</item>
+        <item>@string/data_center_17.10</item>
+    </string-array>
+
+    <string-array name="ups_room_18">
+        <item>@string/ups_room_18.1</item>
+        <item>@string/ups_room_18.2</item>
+        <item>@string/ups_room_18.3</item>
+        <item>@string/ups_room_18.4</item>
+        <item>@string/ups_room_18.5</item>
+        <item>@string/ups_room_18.6</item>
+        <item>@string/ups_room_18.7</item>
+        <item>@string/ups_room_18.8</item>
+    </string-array>
+
+    <string-array name="washrooms_and_toilets_19">
+        <item>@string/wash_room_19.1</item>
+        <item>@string/wash_room_19.2</item>
+        <item>@string/wash_room_19.3</item>
+        <item>@string/wash_room_19.4</item>
+        <item>@string/wash_room_19.5</item>
+        <item>@string/wash_room_19.6</item>
+
+    </string-array>
+    <string-array name="workplace_20">
+        <item>@string/workplace_20.1</item>
+        <item>@string/workplace_20.2</item>
+        <item>@string/workplace_20.3</item>
+        <item>@string/workplace_20.4</item>
+        <item>@string/workplace_20.5</item>
+        <item>@string/workplace_20.6</item>
+        <item>@string/workplace_20.7</item>
+        <item>@string/workplace_20.8</item>
+        <item>@string/workplace_20.9</item>
+        <item>@string/workplace_20.10</item>
+        <item>@string/workplace_20.11</item>
+        <item>@string/workplace_20.12</item>
+        <item>@string/workplace_20.13</item>
+        <item>@string/workplace_20.14</item>
+        <item>@string/workplace_20.15</item>
+        <item>@string/workplace_20.16</item>
+        <item>@string/workplace_20.17</item>
+        <item>@string/workplace_20.18</item>
+        <item>@string/workplace_20.19</item>
+        <item>@string/workplace_20.20</item>
+        <item>@string/workplace_20.21</item>
+        <item>@string/workplace_20.22</item>
+        <item>@string/workplace_20.23</item>
+        <item>@string/workplace_20.24</item>
+        <item>@string/workplace_20.25</item>
+        <item>@string/workplace_20.26</item>
+        <item>@string/workplace_20.27</item>
+        <item>@string/workplace_20.28</item>
+        <item>@string/workplace_20.29</item>
+        <item>@string/workplace_20.30</item>
+        <item>@string/workplace_20.31</item>
+        <item>@string/workplace_20.32</item>
+        <item>@string/workplace_20.33</item>
+    </string-array>
+
+    <string-array name="general_21">
+        <item>@string/general_21.1</item>
+        <item>@string/general_21.2</item>
+        <item>@string/general_21.3</item>
+        <item>@string/general_21.4</item>
+        <item>@string/general_21.5</item>
+        <item>@string/general_21.6</item>
+        <item>@string/general_21.7</item>
+        <item>@string/general_21.8</item>
+        <item>@string/general_21.9</item>
+        <item>@string/general_21.10</item>
+        <item>@string/general_21.11</item>
+        <item>@string/general_21.12</item>
+    </string-array>
+
+    <string-array name="working_at_height_22">
+        <item>@string/work_height_22.1</item>
+        <item>@string/work_height_22.2</item>
+        <item>@string/work_height_22.3</item>
+        <item>@string/work_height_22.4</item>
+        <item>@string/work_height_22.5</item>
+        <item>@string/work_height_22.6</item>
+        <item>@string/work_height_22.7</item>
+        <item>@string/work_height_22.8</item>
+        <item>@string/work_height_22.9</item>
+    </string-array>
+
+    <string-array name="working_at_high_noise_23">
+        <item>@string/work_noise_23.1</item>
+        <item>@string/work_noise_23.2</item>
+        <item>@string/work_noise_23.3</item>
+        <item>@string/work_noise_23.4</item>
+        <item>@string/work_noise_23.5</item>
+        <item>@string/work_noise_23.6</item>
+    </string-array>
+
+    <string-array name="permit_to_work_system_24">
+        <item>@string/permit_work_24.1</item>
+        <item>@string/permit_work_24.2</item>
+        <item>@string/permit_work_24.3</item>
+        <item>@string/permit_work_24.4</item>
+        <item>@string/permit_work_24.5</item>
+    </string-array>
+
+    <string-array name="personal_protective_equipments_25">
+        <item>@string/prsnl_prot_eqp_25.1</item>
+        <item>@string/prsnl_prot_eqp_25.2</item>
+        <item>@string/prsnl_prot_eqp_25.3</item>
+        <item>@string/prsnl_prot_eqp_25.4</item>
+        <item>@string/prsnl_prot_eqp_25.5</item>
+        <item>@string/prsnl_prot_eqp_25.6</item>
+        <item>@string/prsnl_prot_eqp_25.7</item>
+    </string-array>
+
+    <string-array name="emergency_preparedness_response_plan_26">
+        <item>@string/emergency_26.1</item>
+        <item>@string/emergency_26.2</item>
+        <item>@string/emergency_26.3</item>
+        <item>@string/emergency_26.4</item>
+        <item>@string/emergency_26.5</item>
+        <item>@string/emergency_26.6</item>
+        <item>@string/emergency_26.7</item>
+        <item>@string/emergency_26.8</item>
+        <item>@string/emergency_26.9</item>
+        <item>@string/emergency_26.10</item>
+        <item>@string/emergency_26.11</item>
+        <item>@string/emergency_26.12</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="general_safety">General Safety</string>
+    <string name="fire_safety">Fire Safety</string>
+    <string name="electrical_safety">Electrical Safety</string>
+    <string name="first_aid">First Aid and Medical Emergencies</string>
+    <string name="emergency_prep">Emergency Preparedness</string>
+    <string name="workplace_safety">Workplace safety</string>
+    <string name="safe_work">Safe Work Practices</string>
+    <string name="vehicular_safety">Vehicular Safety</string>
+    <string name="contractor_safety">Contractor Safety</string>
+    <string name="health_hygiene">Health &amp; Hygiene</string>
+    <string name="plant_machinery_euip">Plant, Machinery and Equipment Safety</string>
+    <string name="use_of_PPEs">Use of PPEs</string>
+    <string name="Chemical_Safety">Chemical Safety</string>
+    <string name="Safety_Signage">Safety Signage</string>
+    <string name="housekeeping">Housekeeping</string>
+</resources>
